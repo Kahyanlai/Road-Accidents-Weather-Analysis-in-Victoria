@@ -4,7 +4,6 @@ This project explores the relationship between **weather conditions** (e.g. temp
 
 ## 📌 Project Overview
 
-- **Course**: SIT741 – Data Wrangling & Visualisation
 - **Language**: R
 - **Focus**: Modeling road accidents using weather data and statistical techniques
 
